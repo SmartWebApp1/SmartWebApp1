@@ -28,11 +28,12 @@ th, td {
     border: 1px solid #cccccc;
     bottom: 12px;
     left: -50px;   
-    height: auto;
+    height: 300px;
     width: auto;
+	overflow-y;
     min-width: 100px;
     max-height:400px;
-    overflow: auto;      
+    overflow-y: scroll;    
 }
 
 .ol-popup-closer {
